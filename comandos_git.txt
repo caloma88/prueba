@@ -1,0 +1,7 @@
+git init - inicializar repositorio
+git status - para observar lo hecho
+touch +archivo con extension -  para para agregar un archivo
+git add + nombre del archivo con extension  -  prepara para agregar el commit
+git log - para mirar los commit
+git commit -m "aca ek cimentario" -  agrega comentario
+git checkout + nombre del archivo - desecha los cambios y no los guarda

@@ -1,0 +1,4 @@
+if  estudiantes 
+	{
+	class = ok
+	}
