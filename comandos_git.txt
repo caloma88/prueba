@@ -5,3 +5,5 @@ git add + nombre del archivo con extension  -  prepara para agregar el commit
 git log - para mirar los commit
 git commit -m "aca ek cimentario" -  agrega comentario
 git checkout + nombre del archivo - desecha los cambios y no los guarda
+git checkout -B + nombre - crea nueva rama
+git branch -D + nombre de a rama - elimina la rama
